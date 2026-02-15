@@ -67,7 +67,7 @@ Pipelines de transformação, limpeza e integração de dados para ambientes cor
 
 ---
 
-## 🚀 Roadmap do Portfólio
+## 🚀 Roadmap do Portfólio (em desenvolvimento)
 
 - [ ] Publicar repositório de dashboards Power BI  
 - [ ] Publicar repositório de ETL em Power Query  
