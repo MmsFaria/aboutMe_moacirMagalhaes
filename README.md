@@ -5,42 +5,43 @@
 
 ## 📌 Sobre Mim
 
-Sou **Moacir Magalhães Faria**, Matemático com trajetória construída na interseção entre **Finanças, Dados e Governança**. Atuo transformando operações complexas em inteligência estratégica, unindo raciocínio lógico, profundidade analítica e domínio técnico para estruturar processos, modelos e arquiteturas de dados que sustentam decisões financeiras de alto impacto.
+Sou **Moacir Magalhães Faria**, Matemático e profissional especializado em **Finanças, Dados e Governança**, com atuação na construção de arquiteturas que conectam operações, tecnologia e estratégia. Minha carreira foi moldada na interseção entre **FP&A, Controladoria, Engenharia de Dados e Inteligência Financeira**, sempre com foco em transformar dados complexos em decisões claras, auditáveis e de alto impacto.
 
-Como **Cientista de Dados especializado em finanças**, desenvolvo soluções que integram automação, engenharia de dados, modelagem estatística e Business Intelligence para áreas como FP&A, Controladoria, Tesouraria, Governança e Operações. Minha abordagem combina precisão matemática, visão executiva e a capacidade de traduzir números em narrativas claras e acionáveis.
+Trabalho estruturando pipelines, modelos e processos que sustentam operações financeiras robustas — desde a captura e governança dos dados até a modelagem analítica e a entrega executiva. Minha abordagem combina rigor matemático, visão de negócio e domínio técnico em Python, SQL, automação e plataformas modernas como **Microsoft Fabric**.
 
 ---
 
 ## 🎯 Como Entrego Valor
 
-- **Estratégia financeira e FP&A:** Estruturo indicadores, análises, projeções e modelos que suportam planejamento, liquidez e performance.  
-- **Governança e controle:** Valido fluxos financeiros, asseguro integridade de dados e implemento processos que elevam a maturidade operacional.  
-- **Arquitetura e automação de dados:** Construo pipelines, integrações e bases relacionais (SQL, APIs, Docker) para garantir dados confiáveis e escaláveis.  
-- **Business Intelligence e storytelling:** Transformo dados brutos em dashboards executivos e narrativas que orientam decisões.  
-- **Cultura data-driven:** Conecto áreas, padronizo processos e dissemino inteligência analítica.  
-- **IA aplicada ao trabalho:** Utilizo ferramentas como Copilot para acelerar análises, automatizar fluxos e ampliar a capacidade de entrega.
+- **Arquitetura de Dados Financeiros**: desenho pipelines completos (Bronze → Silver → Gold), integrações com ADLS/Fabric, modelagem relacional e governança.
+- **Engenharia e Automação**: construo soluções em Python, SQL e Docker para padronizar fluxos, reduzir erros e acelerar análises.
+- **FP&A e Estratégia**: estruturo indicadores, projeções, análises de performance e modelos que suportam decisões executivas.
+- **Governança e Controle**: garanto integridade, rastreabilidade e consistência dos dados, conectando áreas e padronizando processos.
+- **Business Intelligence**: transformo dados brutos em narrativas claras, dashboards executivos e insights acionáveis.
+- **IA aplicada ao trabalho**: utilizo Copilot e automações inteligentes para ampliar produtividade e qualidade analítica.
 
 ---
 
 ## 🧰 Stack Técnica
 
-- **Linguagens:** Python (com Docker), SQL, DAX, M, VBA  
-- **Bancos:** PostgreSQL, Oracle SQL  
-- **Ferramentas:** Power BI, Microsoft Fabric (Lakehouse), Excel, Copilot  
-- **Integração:** APIs (JSON), containers Docker, Git CI/CD  
+- **Linguagens**: Python (Pandas, PyArrow, FastAPI, dotenv), SQL, DAX, M, VBA
+- **Bancos e Plataformas**: PostgreSQL, Oracle SQL, Microsoft Fabric (Lakehouse, Warehouse Gen2)
+- **Infraestrutura**: Docker, WSL, GitHub Actions (CI/CD), ADLS Gen2
+- **Integração**: APIs REST/JSON, pipelines de dados, automações financeiras
+- **BI**: Power BI, modelagem tabular, storytelling executivo
 
 ---
 
 ## 🏢 Experiência Resumida
 
 ### **Olimpo Participações — Cientista de Dados | FP&A Partner**
-Atuação executiva estruturando controles financeiros, arquitetura de dados e inteligência analítica para um grupo empresarial com mais de **40 empresas ativas**.  
+Atuação estratégica em um grupo com mais de **40 empresas**, estruturando arquitetura de dados, controles financeiros e inteligência analítica.
 Principais entregas incluem:  
-- Arquitetura e governança de dados em PostgreSQL  
-- Pipelines e integrações via APIs (ERP, CRM, cobrança, vendas)  
-- Dashboards executivos para FP&A, vendas, inadimplência e performance  
-- Consolidação analítica para áreas estratégicas  
-- Liderança de iniciativas data-driven e rotinas de gestão  
+- pipelines financeiros integrados (Python + PostgreSQL + ADLS + Fabric)
+- governança e padronização de dados corporativos
+- dashboards executivos para FP&A, vendas, inadimplência e performance
+- integrações via APIs (ERP, CRM, cobrança, vendas)
+- liderança de iniciativas data-driven e rotinas de gestão
 
 ### **HABIX Negócios Imobiliários — Gestão Operacional**
 Atuação estratégica em auditoria financeira, due diligence jurídica, recuperação de crédito e gestão de recebíveis em operações estruturadas e fundos imobiliários.  
@@ -55,26 +56,28 @@ Experiência em:
 
 ## 📂 Projetos em Destaque
 
-### 🔹 **siengeAPI — Automação e Integrações com o Sienge**  
-Automação de rotinas financeiras e operacionais via APIs do Sienge, com arquitetura modular em Python, Docker e PostgreSQL.  
-➡️ *Repositório:* https://github.com/MoacirMagalhaes/siengeAPI
+### 🔹 parquetData — Pipeline de Dados Moderno (WSL → ADLS → Fabric)
+Pipeline completo em Python para ingestão, transformação e publicação de dados em Parquet, PostgreSQL e Microsoft Fabric.
+Inclui: Bronze Pipeline validado, integração ADLS (Files/), CI/CD e execução via Docker.
+➡️ Repositório: https://github.com/IncomeView/parquetData (github.com in Bing)
 
-### 🔹 **Power BI — Dashboards Executivos** *(em construção)*  
-Modelos analíticos para FP&A, vendas, inadimplência, performance operacional e governança.
+### 🔹 siengeAPI — Automação e Integrações com o Sienge
+Arquitetura modular para automação financeira e operacional via APIs do Sienge.
+➡️ Repositório: https://github.com/MoacirMagalhaes/siengeAPI
 
-### 🔹 **Power Query — ETL e Padronização de Dados** *(em construção)*  
-Pipelines de transformação, limpeza e integração de dados para ambientes corporativos.
+### 🔹 Dashboards Executivos em Power BI (em construção)
+Modelos analíticos para FP&A, vendas, inadimplência e governança.
 
 ---
 
-## 🚀 Roadmap do Portfólio (em desenvolvimento)
+## 🚀 Roadmap Profissional
 
-- [ ] Publicar repositório de dashboards Power BI  
-- [ ] Publicar repositório de ETL em Power Query  
-- [ ] Criar repositório de automações Python (coleção de scripts)  
-- [ ] Criar site profissional  
-- [ ] Criar documentação técnica dos principais projetos  
-- [ ] Criar templates de README para projetos futuros  
+- [ ] Publicar dashboards Power BI
+- [ ] Publicar ETLs em Power Query
+- [ ] Criar coleção de automações Python
+- [ ] Criar documentação técnica dos pipelines
+- [ ] Criar site profissional
+- [ ] Criar templates de arquitetura e governança de dados
 
 ---
 
